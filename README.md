@@ -11,7 +11,7 @@ Here are some snapshots of the Site:-
 3. Registered Doctors' Page
 <img src="https://github.com/Dibyendu-sk/Hospital_manage_System/blob/main/DOCTOR_DETAILS.PNG" width="600" height="300"/>
   
-4. Registered Patints' page  
+4. Registered Patients' page  
 <img src="https://github.com/Dibyendu-sk/Hospital_manage_System/blob/main/PATIENT_DETAILS2.PNG" width="600" height="300"/>
 
 5. Doctor can see total number of appoints he has (Doctor dashboard)
