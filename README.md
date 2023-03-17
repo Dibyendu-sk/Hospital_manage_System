@@ -1,4 +1,4 @@
-# Hospital_manage_System
+# Hospital_Management_System
 
 Here are some snapshots of the Site:-
 
@@ -13,3 +13,12 @@ Here are some snapshots of the Site:-
   
 4. Registered Patints' page  
 <img src="https://github.com/Dibyendu-sk/Hospital_manage_System/blob/main/PATIENT_DETAILS2.PNG" width="600" height="300"/>
+
+5. Doctor can see total number of appoints he has (Doctor dashboard)
+<img src="https://github.com/Dibyendu-sk/Hospital_manage_System/blob/main/DOCTOR_DASHBOARD.PNG" width="600" height="300"/>
+
+6. A user can see his appointments
+<img src="https://github.com/Dibyendu-sk/Hospital_manage_System/blob/main/APPOINTMENT_DETAILS.PNG" width="600" height="300"/>
+
+7. Admin can change Doctor details
+<img src="https://github.com/Dibyendu-sk/Hospital_manage_System/blob/main/EDIT_DOCTOR_DETAILS.PNG" width="600" height="300"/>
