@@ -20,5 +20,8 @@ Here are some snapshots of the Site:-
 6. A user can see his appointments
 <img src="https://github.com/Dibyendu-sk/Hospital_manage_System/blob/main/APPOINTMENT_DETAILS.PNG" width="600" height="300"/>
 
-7. Admin can change Doctor details
+7. Admin can add doctor
+<img src="https://github.com/Dibyendu-sk/Hospital_manage_System/blob/main/add_doctor.PNG" width="600" height="300"/>
+
+8. Admin can change Doctor details
 <img src="https://github.com/Dibyendu-sk/Hospital_manage_System/blob/main/EDIT_DOCTOR_DETAILS.PNG" width="600" height="300"/>
